@@ -9,7 +9,7 @@
     "id": "3dcb8197-eed6-4d48-9ca1-2bc2b855bf59",
     "url": "https://github.com/inkcontent/pre-packed-plugins/raw/master/prePackedDye/image-finder-TEST.dye",
     "version": "1.6.6",
-    "fhash": [{"name":"hash.json","hash":"mFtCEOXycqndscQymULyr8SSzZM="},{"name":"logo.png","hash":"k/7HzaI46Si7/K7hH/vKtMz0OeM="},{"name":"package.json","hash":"nO9BecpTiknL3CunnGDQ4Ks8IBU="},{"name":"readme.md","hash":"2krAmUz0pF9q/9oP6Dy68dZtF7k="},{"name":"src","children":[{"name":"assets","children":[{"name":"diamond.svg","hash":"UYhHdlzS7MuQjtp5cgPkxTHyr24="},{"name":"image.svg","hash":"Zizw4cP0L2H66jSib2aQTo9mz74="}],"hash":"KR7GEhmULzdx1klqCw1csP/z8ms="},{"name":"main.js","hash":"ZCXEOpbWecTWpQIR07BfNyGu94Y="}],"hash":"vIDJhXg3Dh0TapaLbbptAF9yJx0="}]
+    "fhash": [{"name":"logo.png","hash":"k/7HzaI46Si7/K7hH/vKtMz0OeM="},{"name":"package.json","hash":"nO9BecpTiknL3CunnGDQ4Ks8IBU="},{"name":"readme.md","hash":"2krAmUz0pF9q/9oP6Dy68dZtF7k="},{"name":"src","children":[{"name":"assets","children":[{"name":"diamond.svg","hash":"UYhHdlzS7MuQjtp5cgPkxTHyr24="},{"name":"image.svg","hash":"Zizw4cP0L2H66jSib2aQTo9mz74="}],"hash":"KR7GEhmULzdx1klqCw1csP/z8ms="},{"name":"main.js","hash":"ZCXEOpbWecTWpQIR07BfNyGu94Y="}],"hash":"vIDJhXg3Dh0TapaLbbptAF9yJx0="}]
   },
   {
     "id": "8b132e4c-7bf6-43e7-a5f6-160530536137",
