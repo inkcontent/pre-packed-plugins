@@ -14,7 +14,7 @@
   {
     "id": "8b132e4c-7bf6-43e7-a5f6-160530536137",
     "url": "https://github.com/inkcontent/pre-packed-plugins/raw/master/prePackedDye/docx-plus.dye",
-    "version": "1.7.0",
-    "fhash": [{"name":"icon.png","hash":"VdNAaNpGLT2+Oc0K8hZTrDYB5bA="},{"name":"package-lock.json","hash":"Dy2nlkdWiaFayo7yLiZUdH7re8U="},{"name":"package.json","hash":"XuuzlEcQV0cvXwVMW+a5ce0JGoU="},{"name":"readme.md","hash":"kG/WDQ6+5DLcfpdn8sPNOw/EY40="},{"name":"src","children":[{"name":"bundle.js","hash":"tG0kk0UvGu5HbqEC3EqMpt56Yy0="},{"name":"main.js","hash":"+0/ImBqOX4kW02oVjVRmIBr2Irk="}],"hash":"iDLk/fVX9YYuCYVxrj0kKKXK644="}]
+    "version": "1.7.1",
+    "fhash": [{"name":"icon.png","hash":"VdNAaNpGLT2+Oc0K8hZTrDYB5bA="},{"name":"package-lock.json","hash":"UyzZ6JQZ7pfPd7d+xmCCJfSZSEA="},{"name":"package.json","hash":"/1YQgUjYM5pv3+e1t7jcM/vciEk="},{"name":"readme.md","hash":"kG/WDQ6+5DLcfpdn8sPNOw/EY40="},{"name":"src","children":[{"name":"bundle.js","hash":"tG0kk0UvGu5HbqEC3EqMpt56Yy0="},{"name":"main.js","hash":"+0/ImBqOX4kW02oVjVRmIBr2Irk="}],"hash":"iDLk/fVX9YYuCYVxrj0kKKXK644="}]
   }
 ]
