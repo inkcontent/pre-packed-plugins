@@ -2,19 +2,19 @@
   {
     "id": "9510ee94-cc5d-45ed-af2e-4978c0f2654b",
     "url": "https://github.com/inkcontent/pre-packed-plugins/raw/master/prePackedDye/ink-tools-test.dye",
-    "version": "1.8.6",
+    "version": "1.8.13",
     "fhash": [{"name":"ai-tools.png","hash":"nxluHPd8vBt4/KBQ+02wBUtA/Q8="},{"name":"package-lock.json","hash":"uFjfhtFIpNBrbs1uJTCnvq3ErEY="},{"name":"package.json","hash":"SNXdH9pPBW/HK1HxGBuFv1eYCUY="},{"name":"readme.md","hash":"4b36cJGcNp5gw9QPa1jDzRqCTYQ="},{"name":"src","children":[{"name":"assets","children":[{"name":"ai-writing-tools.svg","hash":"TsKkVGM+Npw0tSnvxlK/ZrfYmAU="},{"name":"autofill.svg","hash":"ejIpKhmKmZLnI6IUlNM59YBijtA="},{"name":"back.svg","hash":"zhYdpD9EJ/MiiGViAMrFmbxWZcY="},{"name":"copy.svg","hash":"fgrooOGlO4pGbZ7m/VrOYZgi7qk="},{"name":"diamond.svg","hash":"UYhHdlzS7MuQjtp5cgPkxTHyr24="},{"name":"tools","children":[{"name":"ai-tools.svg","hash":"fbk+LBfL3knG4uCk4bWmAf0hTjk="},{"name":"aida-tools.svg","hash":"36nwBVOKWn+ALqXz0QH5PiStZhs="},{"name":"bab-tools.svg","hash":"05TRAorKKpKQJYacinIecFa5OcY="},{"name":"benefits-tools.svg","hash":"IGHFuPXvCwpUcbzCQq3H9wFKW8A="},{"name":"blog-ideas-tools.svg","hash":"Ity6AXm458TeAv9o82bU0SvJDIo="},{"name":"cta-tools.svg","hash":"7UgIF3TMkB6Dgr7i0NoouqA1KQM="},{"name":"ecom-tools.svg","hash":"FwvFYYsZbq81ZrZsqm45sZ3E5q0="},{"name":"email-tools.svg","hash":"AF2iKcv2Mpt0e0HC/suGEnx7vnY="},{"name":"fab-tools.svg","hash":"RIQq4rxOuvwuxfTnnJj6SV1Qk7E="},{"name":"fb-tools.svg","hash":"XiySZhqYWXsgFh/FmZetlSto/2Y="},{"name":"generator-tools.svg","hash":"/BgmVBIvFHj+WMWwPpKswBWGJjw="},{"name":"google-tools.svg","hash":"aevT3INicXERdIPKvqMLWs8QzOk="},{"name":"growth-tools.svg","hash":"csUnS5AE5P/avMA1MUypz+mYKgI="},{"name":"linkedin-tools.svg","hash":"4RaQQFI48gqq63Wd0VhOcCusFqc="},{"name":"list-format-tools.svg","hash":"T4CXyeNMFwOMg9nVrhq/HQBiMPM="},{"name":"marketing-angles.svg","hash":"Obji0Ak7ATuU9bvHZ70roP+EF0Q="},{"name":"next-product.svg","hash":"TDkh71gmBUC9Vfz7N+HABovV/qk="},{"name":"pas-tools.svg","hash":"6Msj9nbPq/nx57oLFNeM9ashJL8="},{"name":"pppp-tools.svg","hash":"b8q7XkOekZVFeSxgZPokfzUajyY="},{"name":"viral-tools.svg","hash":"qxN2GO6kwdUWMTmw/QP9l/w53dU="},{"name":"yt-tools.svg","hash":"cNUuJ9b0ZsJwzYme0eYFgnKq28M="}],"hash":"iFcu/1XPKaOBlIMZxLZNq5AUlUA="},{"name":"tools.svg","hash":"Kxzq9aSEzUv+IVa+8SWBZPV2uc0="}],"hash":"WRrcelGTxF0ncLLsNsGv1c/EVOo="},{"name":"helpers","children":[{"name":"api.js","hash":"4fcGObt0MsAwLc4no8SAC1p8RQQ="},{"name":"tools.js","hash":"X6LQE+S/ThWj/g8QjqIbycyNpU0="},{"name":"uiConfigs.js","hash":"3FvEjIvQllr4m9hwWMFpNtGvorg="}],"hash":"Tk3glBFYf3gb5kmSjNWKbS22jsg="},{"name":"main.js","hash":"RvhxoczuwE05Ex1pi6I4WRGhNwQ="}],"hash":"yvZn3Rjm1/oEqW6FsQI6+qW/leI="}]
   },
   {
     "id": "3dcb8197-eed6-4d48-9ca1-2bc2b855bf59",
-    "url": "https://github.com/inkcontent/pre-packed-plugins/raw/master/prePackedDye/image-finder-TEST.dye",
+    "url": "https://github.com/inkcontent/pre-packed-plugins/raw/master/prePackedDye/image-finder-test.dye",
     "version": "1.6.8",
     "fhash": [{"name":"logo.png","hash":"k/7HzaI46Si7/K7hH/vKtMz0OeM="},{"name":"package.json","hash":"nO9BecpTiknL3CunnGDQ4Ks8IBU="},{"name":"readme.md","hash":"2krAmUz0pF9q/9oP6Dy68dZtF7k="},{"name":"src","children":[{"name":"assets","children":[{"name":"diamond.svg","hash":"UYhHdlzS7MuQjtp5cgPkxTHyr24="},{"name":"image.svg","hash":"Zizw4cP0L2H66jSib2aQTo9mz74="}],"hash":"KR7GEhmULzdx1klqCw1csP/z8ms="},{"name":"main.js","hash":"ZCXEOpbWecTWpQIR07BfNyGu94Y="}],"hash":"vIDJhXg3Dh0TapaLbbptAF9yJx0="}]
   },
   {
     "id": "8b132e4c-7bf6-43e7-a5f6-160530536137",
     "url": "https://github.com/inkcontent/pre-packed-plugins/raw/master/prePackedDye/docx-plus.dye",
-    "version": "1.8.8",
+    "version": "1.7.1",
     "fhash": [{"name":"icon.png","hash":"VdNAaNpGLT2+Oc0K8hZTrDYB5bA="},{"name":"package-lock.json","hash":"UyzZ6JQZ7pfPd7d+xmCCJfSZSEA="},{"name":"package.json","hash":"/1YQgUjYM5pv3+e1t7jcM/vciEk="},{"name":"readme.md","hash":"kG/WDQ6+5DLcfpdn8sPNOw/EY40="},{"name":"src","children":[{"name":"bundle.js","hash":"tG0kk0UvGu5HbqEC3EqMpt56Yy0="},{"name":"main.js","hash":"+0/ImBqOX4kW02oVjVRmIBr2Irk="}],"hash":"iDLk/fVX9YYuCYVxrj0kKKXK644="}]
   }
 ]
